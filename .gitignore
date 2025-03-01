@@ -16,7 +16,6 @@ ENV/
 *.ipynb-meta
 
 # Ignore data files
-*.csv
 *.tsv
 *.json
 *.xml
